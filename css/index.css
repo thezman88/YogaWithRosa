@@ -1,4 +1,8 @@
 body{
     background-color: #afb2b3;
     background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
-};
+}
+
+.jumbo{
+    opacity: 0.8;
+}
